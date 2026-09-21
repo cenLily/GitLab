@@ -2,8 +2,7 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("I can use Git to track my work.\n");
     int a = 5;
     int b = 10;
     int sum = a + b;
