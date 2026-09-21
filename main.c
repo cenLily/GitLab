@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("I can use Git to track my work.\n");
+    printf("On feature, I practice working with Git branches.\n");
     int a = 5;
     int b = 10;
     int sum = a + b;
