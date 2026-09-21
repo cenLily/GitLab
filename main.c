@@ -3,6 +3,7 @@
 int main()
 {
     printf("On main, I practice recording Git commits.\n");
+    printf("On feature, I practice working with Git branches.\n");
     int a = 5;
     int b = 10;
     int sum = a + b;
